@@ -1,2 +1,2 @@
 # Riemann问题
-## 图片结果使用matlab打开
+## C++实现算法，Matlab作图
